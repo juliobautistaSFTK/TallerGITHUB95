@@ -21,4 +21,4 @@ jobs:
       run: mvn -B package --file hola-mundo/pom.xml
 
     - name: listado
-      run: ls -lR target
+      run: ls -lR 
